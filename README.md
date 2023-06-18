@@ -1,4 +1,4 @@
-# OptimusTech
+# Optimus Tech
 
 Português:<br>
 - Um projeto de HTML e CSS feito no desafio 7DaysOfCode da Alura.
