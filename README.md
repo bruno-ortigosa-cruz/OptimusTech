@@ -8,4 +8,4 @@ Português:<br>
 English:
 - A HTML and CSS project produced in the Alura's 7DaysOfCode challenge.
 <br>
-GitHub page: https://bruno-ortigosa-cruz.github.io/OptimusTech/
+GitHub page: https://bruno-ortigosa-cruz.github.io/optimus-tech/
